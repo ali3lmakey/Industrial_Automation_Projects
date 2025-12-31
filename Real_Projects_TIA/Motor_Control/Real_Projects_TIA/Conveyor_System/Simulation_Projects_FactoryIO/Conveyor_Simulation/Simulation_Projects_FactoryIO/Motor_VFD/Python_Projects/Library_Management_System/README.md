@@ -12,4 +12,4 @@ to manage books and members.
 ## Tools
 - Python
 - Tkinter
-- SQLitee Enter
+- SQLite
