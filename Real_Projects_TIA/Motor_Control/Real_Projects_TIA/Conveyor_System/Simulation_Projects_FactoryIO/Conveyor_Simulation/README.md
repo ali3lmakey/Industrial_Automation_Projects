@@ -12,4 +12,4 @@ Factory I/O as a digital twin integrated with PLC logic.
 ## Tools
 - Factory I/O
 - Siemens PLC
-- TIA Portal￼Enter
+- TIA Portal
