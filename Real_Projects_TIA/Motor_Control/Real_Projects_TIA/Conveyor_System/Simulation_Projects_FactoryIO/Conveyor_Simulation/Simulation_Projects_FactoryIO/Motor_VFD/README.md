@@ -12,4 +12,4 @@ controlled by PLC logic in Factory I/O.
 ## Tools
 - Factory I/O
 - Siemens PLC
-- VFD / Drives￼Enter
+- VFD / Drives
