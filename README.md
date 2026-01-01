@@ -1,7 +1,7 @@
 # Industrial Automation & Programming Portfolio
 
 This repository contains real and simulated industrial automation projects
-using Siemens PLC, TIA Portal, Factory I/O, and Python.
+using Siemens PLC, TIA Portal, Factory I/O.
 
 ## Included Projects
 - Real PLC Projects (TIA Simulator – Siemens)
@@ -12,4 +12,3 @@ using Siemens PLC, TIA Portal, Factory I/O, and Python.
 - Motor Control & Safety Logic
 - Conveyor Automation
 - Factory I/O Digital Twin Simulation
-- Python Programming
